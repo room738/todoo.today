@@ -1,10 +1,26 @@
-<p align="center">
-  <img src="https://todaylist.io/assets/images/icon.png" width="128" height="128">
-</p>
+<img src="https://todaylist.io/assets/images/icon.png" width="128" height="128">
 
-# Today
+# <a href="https://www.todoo.today/">todoo.today</a> a minimal 24 hour todo list app
 
-### A minimal 24 hour todo list
+A todo list to help you organize your day ahead. <a href="https://github.com/daniel-hayes/today">Based on Today v1.4 by Daniel Hayes.</a>
+
+**Visit** <a href="https://www.todoo.today/">todoo.today</a> and try it yourself! 100% free forever. (not yet)
+
+<br>
+
+## Todos
+
+**v0:** First port with better usability
+- **Keep Ups** &rarr; Carry over uncompleted tasks
+- **List Groups** &rarr; Make sublists for related tasks
+- **Task Intervals** &rarr; Place a timebox around a task
+- **Keep Momentum** &rarr; Hide completed tasks
+
+**v1:** Visual & UX considerations 
+- **It's Alive!** &rarr; Snazzy new animations
+- **Paint it Black** &rarr; Better color selection
+- **Enhance. ENHANCE.** &rarr; Multiple display widths
+- **Persistent Focuses** &rarr; Idea bait for the start of the day
 
 > The list clears every 24 hours which will allow you to focus on your daily tasks without letting them pile up.
 
@@ -13,7 +29,7 @@
 
 #### Built with Svelte + Electron + Typescript
 
-<div style="background: blue;">
+<div>
   <img src="https://todaylist.io/assets/images/light.png" width="49%">
   <img src="https://todaylist.io/assets/images/settings.png" width="49%">
 </div>

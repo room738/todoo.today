@@ -15,10 +15,11 @@ let mainWindow: BrowserWindow | null;
 
 function createMainWindow() {
   const window = new BrowserWindow({
-    minWidth: 250,
-    minHeight: 130,
-    maxWidth: 600,
-    width: 500,
+    minWidth: 500,
+    minHeight: 550,
+    maxWidth: 1080,
+    height: 1080,
+    width: 1080,
     titleBarStyle: 'hiddenInset',
     fullscreen: false,
     webPreferences: {
